@@ -19,12 +19,13 @@ function Contact() {
 
           <div className="social-links">
             <a
-              href={personalInfo.socials.github}
+              href="https://github.com/whatsupdahlia"
               target="_blank"
               rel="noreferrer"
             >
               GitHub
             </a>
+
             <a
               href={personalInfo.socials.facebook}
               target="_blank"
@@ -33,7 +34,7 @@ function Contact() {
               Facebook
             </a>
             <a
-              href={personalInfo.socials.linkedin}
+              href= "https://www.linkedin.com/in/julia-carmela-asturga-42a3401ba/"
               target="_blank"
               rel="noreferrer"
             >

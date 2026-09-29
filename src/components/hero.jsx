@@ -26,7 +26,7 @@ function Hero() {
           <span className="floating-tag three">Mobile Creator</span>
 
           <img
-            src={personalInfo.profileImage}
+            src="/JuliaGrad.jpg"
             alt={personalInfo.name}
             className="hero-image"
           />
